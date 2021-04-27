@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "ESP8266_IO9_10",
+			"path": "../../ESP8266_IO9_10"
+		},
+		{
+			"name": "TestPCF8574",
+			"path": "../../TestPCF8574"
+		}
+	],
+	"settings": {}
+}
